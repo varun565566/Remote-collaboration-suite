@@ -1,0 +1,3 @@
+- [x] Remove import of "lovable-tagger" from vite.config.ts
+- [x] Remove componentTagger from plugins array in vite.config.ts
+- [x] Test the fix by running the dev server
